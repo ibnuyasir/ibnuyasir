@@ -13,7 +13,6 @@
 <br />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ibnuyasir&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-<BR />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnuyasir&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
