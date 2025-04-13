@@ -2,11 +2,20 @@
 <h4 align="left">I'm from Surabaya, East Java - Indonesia 🇮🇩</h4>
 
 ---
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZxM3BpeGdseTllMWtsOTc5MzcwYmxtd3d3a3Jtanh3OWYzZWlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QDRkQtiuugmBHQ4/giphy.gif" style="border: ridge 10px black; width: 300px; height: auto; border-radius: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Z80Trojan.gif/640px-Z80Trojan.gif" style="border: ridge 10px black; width: 300px; height: 300px; border-radius: 10px;" />
+</div>
+<br  />
 
+---
+
+<br />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ibnuyasir&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
 <BR />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnuyasir&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnuyasir&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
 
 ---
 
