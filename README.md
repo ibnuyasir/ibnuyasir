@@ -58,4 +58,7 @@
 
 ---
 
-### ✨ Fun Fact> I love to build stuff, create a project, Make code with other , and learn new languages both human and programming!---
+### ✨ Fun Fact 
+> I love to build stuff, create a project, Make code with other , and learn new languages both human and programming!
+
+---
