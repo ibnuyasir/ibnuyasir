@@ -6,7 +6,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZxM3BpeGdseTllMWtsOTc5MzcwYmxtd3d3a3Jtanh3OWYzZWlkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QDRkQtiuugmBHQ4/giphy.gif" style="border: ridge 10px black; width: 300px; height: auto; border-radius: 10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Z80Trojan.gif/640px-Z80Trojan.gif" style="border: ridge 10px black; width: 300px; height: 300px; border-radius: 10px;" />
   <br />
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*-kLQL5C8o8Ua7RQZ3OGzfw.gif" style="border: ridge 10px black; width: 420px; height: 300px; border-radius: 10px;" />
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*-kLQL5C8o8Ua7RQZ3OGzfw.gif" style="border: ridge 10px black; width: 620px; height: 300px; border-radius: 10px;" />
 
 </div>
 <br  />
