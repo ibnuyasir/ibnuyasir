@@ -21,7 +21,6 @@
 ### 🛠️ Tech Stack
 
 <div align="left">
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
@@ -39,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-<i class="programming lang-cpp"></i>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height=50 alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
 <img src="https://www.svgrepo.com/show/4774/function-mathematical-symbol.svg" height="50" alt="Math" style="color: #fff; border: solid 1px #000;"/>
