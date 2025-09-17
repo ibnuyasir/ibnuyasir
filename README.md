@@ -47,7 +47,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ada_horizon_green_logo_with_slogan.svg" height="50" alt="Ada" />
 <img src="https://pages.cs.wisc.edu/~almazroy/makefile.png" height="50" alt="Makefile" />
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" height="50" alt="Wasm" />
 </div>
 
 ---
