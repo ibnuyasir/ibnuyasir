@@ -45,8 +45,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height=50 alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
-<img src="https://www.svgrepo.com/show/4774/function-mathematical-symbol.svg" height="50" alt="Math" style="color: #fff; border: solid 1px #000;"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ada/ada-original.svg" height="50" alt="Ada" />
+  
 </div>
 
 ---
