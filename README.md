@@ -51,6 +51,7 @@
 <img src="https://pages.cs.wisc.edu/~almazroy/makefile.png" height="50" alt="Makefile" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" height="50" alt="Wasm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" height="50" alt="Pascal" />
 </div>
 
 ---
