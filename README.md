@@ -51,7 +51,7 @@
 <img src="https://pages.cs.wisc.edu/~almazroy/makefile.png" height="50" alt="Makefile" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" height="50" alt="Wasm" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" height="50" alt="Pascal" />
+<img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.9.0/1738545183646/Microsoft.VisualStudio.Services.Icons.Default" height="50" alt="Pascal" />
 </div>
 
 ---
