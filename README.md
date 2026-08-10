@@ -7,7 +7,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Z80Trojan.gif/640px-Z80Trojan.gif" style="border: ridge 10px black; width: 300px; height: 300px; border-radius: 10px;" />
   <br />
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-kLQL5C8o8Ua7RQZ3OGzfw.gif" style="border: ridge 10px black; width: 620px; height: 300px; border-radius: 10px;" />
-
 </div>
 <br  />
 <br />
@@ -57,10 +56,7 @@
 
 ## Contact
 
-Email: abnyasir.kenka@gmail.com
-
-[![Button Shield]][Shield]
-
+Email: abnyasir.kenka@gmail.com | fikretmuratovich@atomicmail.io
 </div>
 
 <br>
