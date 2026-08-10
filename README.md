@@ -49,14 +49,7 @@
 ## Contact
 
 Email: abnyasir.kenka@gmail.com | fikretmuratovich@atomicmail.io
+
+Donate:
+[BTC|Bitcoin]: bc1qp3mjfmxx56kyqmd4gy5zgdur3k407s92pgvg2y
 </div>
-
-<br>
-<br>
-
----
-
-### ✨ Fun Fact 
-> I love to build stuff, create a project, Make code with other , and learn new languages both human and programming!
-
----
