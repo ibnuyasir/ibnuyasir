@@ -2,7 +2,13 @@
 <h4 align="left">I'm from Surabaya, East Java - Indonesia 🇮🇩</h4>
 <br />
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*-kLQL5C8o8Ua7RQZ3OGzfw.gif" style="border: ridge 10px black; width: 620px; height: 300px; border-radius: 10px;" />
+<p>
+With over 3 years of experience in web development, I specialize in building robust, scalable applications that solve real business problems. My approach combines technical excellence with a deep understanding of user experience principles
+
+I believe that great software is not just about code, it's about creating solutions that are intuitive, accessible, and provide real value to users. Every project I undertake is guided by this philosophy
+
+When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through technical writing and community involvement
+</p>
 </div>
 <br  />
 <br />
