@@ -11,8 +11,6 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 </p>
 </div>
 <br  />
-<br />
-
 ---
 
 ## Languages I Use
