@@ -1,7 +1,7 @@
 <h2 align="left">Hi!, My name is Ibnu Yasir</h2>
 <h4 align="left">I'm from Surabaya, East Java - Indonesia 🇮🇩</h4>
 <br />
-<div align="center">
+<div>
 <p>
 With over 3 years of experience in web development, I specialize in building robust, scalable applications that solve real business problems. My approach combines technical excellence with a deep understanding of user experience principles
 
