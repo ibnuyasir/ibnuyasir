@@ -1,7 +1,6 @@
 <h2 align="left">Hi!, My name is Ibnu Yasir</h2>
 <h4 align="left">I'm from Surabaya, East Java - Indonesia 🇮🇩</h4>
 
----
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*-kLQL5C8o8Ua7RQZ3OGzfw.gif" style="border: ridge 10px black; width: 620px; height: 300px; border-radius: 10px;" />
 </div>
@@ -46,6 +45,7 @@
 ## Contact
 
 Email: abnyasir.kenka@gmail.com | fikretmuratovich@atomicmail.io
+Phone: +62 895-3931-28051
 
 Donate:
 [BTC|Bitcoin]: bc1qp3mjfmxx56kyqmd4gy5zgdur3k407s92pgvg2y
